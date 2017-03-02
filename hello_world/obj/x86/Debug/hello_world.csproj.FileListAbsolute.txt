@@ -1,0 +1,4 @@
+C:\Users\Administrator\Hello-World\hello_world\bin\Debug\hello_world.exe
+C:\Users\Administrator\Hello-World\hello_world\bin\Debug\hello_world.pdb
+C:\Users\Administrator\Hello-World\hello_world\obj\x86\Debug\hello_world.exe
+C:\Users\Administrator\Hello-World\hello_world\obj\x86\Debug\hello_world.pdb
